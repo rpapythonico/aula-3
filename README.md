@@ -1,5 +1,5 @@
 <header>
-    <h1>Aula 3<h1>
+    <h1>Aula 3</h1>
 </header>
 
 ## Exercícios
