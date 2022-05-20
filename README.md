@@ -1,9 +1,3 @@
-<header>
-    <h1>Aula 3</h1>
-</header>
-
-# Funções, Strings, Erros e Datas
-
 ## Exercícios
 
 - [ttv_frases.py](https://github.com/Wilberhg/python-rpa/blob/main/Aula3/Exerc%C3%ADcios/ttv_frases.py)
