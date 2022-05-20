@@ -1,4 +1,8 @@
-### Exercícios
+<header>
+    <h1>Aula 3</h1>
+</header>
+
+# Exercícios
 
 - [ttv_frases.py](https://github.com/rpapythonico/aula-3/blob/main/Exerc%C3%ADcios/ttv_frases.py)
 
@@ -8,9 +12,9 @@
 
     - Script que separa o nome completo fornecido e informa o primeiro nome, o último sobrenome e a quantidade de caracteres.
 
-### Material
+# Material
 
-#### A2022T1
+## A2022T1
 
 - [Aula_3_Funções,_Manipulações_e_Erros.ipynb](https://github.com/rpapythonico/aula-3/blob/main/Material/A2021T1/Aula_3_Fun%C3%A7%C3%B5es%2C_Strings%2C_Erros_e_Datas.ipynb)
 
