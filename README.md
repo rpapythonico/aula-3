@@ -1,3 +1,8 @@
+<header>
+    <h1>Aula 3</h1>
+    <p>Funções, Strings, Erros e Datas</p>
+</header>
+
 # Exercícios
 
 - [ttv_frases.py](https://github.com/rpapythonico/aula-3/blob/main/Exerc%C3%ADcios/ttv_frases.py)
