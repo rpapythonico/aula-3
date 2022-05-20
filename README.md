@@ -1,8 +1,6 @@
-<head>
-    <title>Aula 3 - Funções, Strings, Erros e Datas</title>
-    <link rel="icon" href="https://img.icons8.com/color/344/python--v1.png">
+<header>
     <h1>Aula 3</h1>
-</head>
+</header>
 
 # Funções, Strings, Erros e Datas
 
